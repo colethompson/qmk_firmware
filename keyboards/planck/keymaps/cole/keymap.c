@@ -31,7 +31,7 @@ enum planck_layers {
 
 enum planck_keycodes {
   QWERTY = SAFE_RANGE,
-  _MAC,
+  MAC,
   COLEMAK,
   DVORAK,
   PLOVER,
